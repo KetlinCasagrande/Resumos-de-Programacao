@@ -1,6 +1,6 @@
 # Resumo Modulo 1 - Git e GitHub
 
-## Criando e Clonando Repositórios 😜
+## Criando e Clonando Repositórios Git
 
 Com a primeira aula aprendemos a criar e clonar repósitorios utilizando Git.
 Para começar precisamos abrir o Git Bash e criar uma pasta nova, utilizando o comando **mkdir**.
