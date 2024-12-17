@@ -1,0 +1,33 @@
+- Linguagem de programação, interpretada e executada pelos navegadores
+
+- A inteligência da tríade, HTML é a estrutura, CSS é beleza e JS é a inteligência 
+
+- Não é JAVA	
+apesar do nome semelhante, são linguagens diferentes!
+
+Porque aprender JS ?
+- Aplicativos: Para WEB, Desktop (Eléctron) e Mobile (React Native) 
+
+- Empresas famosas: Instagram, Google, Netflix, TikTok...
+
+-Moderna e viva : Comunidade e linguagem que cresce cada vez mais.
+
+
+
+Instruções e sintaxe: 
+
+Instruções: Ordens ao computador.
+Sintaxe: Maneira correta de escrever. 
+
+Tipos de dados:
+informações que podem ser em textos, números, booleanos ( valores lógicos: verdadeiro ou falso) ou dados mais estruturados.
+
+!Funções 
+- Agrupamento logico;
+- Reuso de Código ;
+- Mini programas dentro do programa maior;
+- Toda linguagem oferece muitas opções.
+
+Objetos: 
+Atributos : São as propriedades de um objeto.
+Métodos : São as funcionalidades de um objeto.
