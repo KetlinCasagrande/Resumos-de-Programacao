@@ -31,3 +31,4 @@ informações que podem ser em textos, números, booleanos ( valores lógicos: v
 Objetos: 
 Atributos : São as propriedades de um objeto.
 Métodos : São as funcionalidades de um objeto.
+
