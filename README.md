@@ -7,8 +7,10 @@ Este repositório reúne meus resumos de diversas linguagens de programação e 
 
 📌 O que você vai encontrar aqui?
 
-📝 Resumos sobre Python, SQL, HTML, CSS, JavaScript e mais.
+📝 Resumos sobre Python, SQL, HTML, CSS, JavaScript e mais
+
 🎓 Certificados de cursos e treinamentos que concluí.
+
 📖 Materiais úteis para aprendizado contínuo.
 
 🚀
