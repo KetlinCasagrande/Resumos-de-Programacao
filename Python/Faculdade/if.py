@@ -12,6 +12,8 @@ print (media)
 print ("A média é:" , media)
 if  media >= 7:
     print ("Aprovado")
+elif media < 5:
+    print ("Em Recuperação")
 else: 
     print ("Reprovado")
    
